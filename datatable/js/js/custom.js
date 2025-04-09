@@ -1,0 +1,2 @@
+
+ DataTable('#my_table');

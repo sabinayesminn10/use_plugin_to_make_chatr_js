@@ -1,0 +1,79 @@
+/**********************************/
+/********** General CSS ***********/
+/**********************************/
+body {
+   
+}
+.header {
+  
+}
+.tn-img .tn-content-inner .txt-clr  {
+   
+}
+.mn-bg{
+    color: #070701;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.fas {
+    padding-right:13px;
+
+}
+.lsn{
+    list-style: none;
+    color: black;
+    display: inline-block;
+}
+.ul li a {
+    color: black;
+
+}
+.ul li a :hover {
+    color: #cd0a0a;
+
+} 
+.top-im {
+    width: 200px;
+
+}
+.top-imm {
+    width: 300px;
+}
+.background {
+    width: 100%;
+    background-color:#9c9c9c;
+    
+}
+.mm-bg {
+    color: white;
+    font-size:x-large;
+    padding-top: 2.5rem;
+}
+
+.left-section .category .lsn li {
+    margin-left: 17px;
+
+}
+.tags .lsn a {
+    display: inline-block;
+    margin-bottom: 5px;
+    padding: 5px 10px;
+    color: #353535;
+    background: #ffffff;
+   
+}
+  
+.background-i{
+    background-color: #181616;
+    margin-right: 10px;
+}
+.mrgn-r {
+    margin-left: 3rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.txt-clrr {
+    color: whitesmoke;
+    margin-right: 3px;
+    margin-left: 100px;
+}
